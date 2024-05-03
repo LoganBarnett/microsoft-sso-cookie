@@ -1,0 +1,14 @@
+#+title:     Microsoft SSO Cookie
+#+author:    Logan Barnett
+#+email:     logustus@gmail.com
+#+date:      <2024-05-02 Thu>
+#+language:  en
+#+file_tags:
+#+tags:
+
+Retrieve an authentication cookie from Microsoft's SSO.
+
+This can be helpful for working with hostile APIs, such as communicating with
+Outlook when the Exchange administrators have not enabled API access or don't
+want to install an app just so you can automate your workflows.  This also
+applies to any other systems that would be behind Microsoft's SSO.
